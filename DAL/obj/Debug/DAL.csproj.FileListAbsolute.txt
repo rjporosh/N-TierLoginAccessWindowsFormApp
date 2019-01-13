@@ -1,0 +1,13 @@
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\bin\Debug\DAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\bin\Debug\DAL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\obj\Debug\DAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\obj\Debug\DAL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\DAL\bin\Debug\DAL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\DAL\bin\Debug\DAL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\DAL\obj\Debug\DAL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\DAL\obj\Debug\DAL.pdb
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\DAL\bin\Debug\DAL.dll
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\DAL\bin\Debug\DAL.pdb
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\DAL\obj\Debug\DAL.dll
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\DAL\obj\Debug\DAL.pdb
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

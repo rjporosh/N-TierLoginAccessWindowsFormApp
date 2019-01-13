@@ -1,0 +1,74 @@
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.exe
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\BAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\BEL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\DAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\BAL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\BEL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\bin\Debug\DAL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.csprojResolveAssemblyReference.cache
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Form1.resources
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Properties.Resources.resources
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.csproj.GenerateResource.Cache
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.exe
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.exe
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.exe
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\BAL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\BEL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\DAL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\BAL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\BEL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\bin\Debug\DAL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.csprojResolveAssemblyReference.cache
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Form1.resources
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Login.resources
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.MDIAdmin.resources
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.MDIEmployee.resources
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Properties.Resources.resources
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.csproj.GenerateResource.Cache
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\03\Three Tier Part 03\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.exe
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\03\Three Tier Part 03\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.exe
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.exe
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\bin\Debug\BAL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\bin\Debug\BEL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\bin\Debug\DAL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\bin\Debug\BAL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\bin\Debug\BEL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\bin\Debug\DAL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.csprojResolveAssemblyReference.cache
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Form1.resources
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Login.resources
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.MDIEmployee.resources
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Properties.Resources.resources
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.csproj.GenerateResource.Cache
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.MDIAdmin.resources
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.ViewEmployees.resources
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.exe
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.pdb
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.exe.config
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.exe
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\bin\Debug\ThreeTierStructure.pdb
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\bin\Debug\BAL.dll
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\bin\Debug\BEL.dll
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\bin\Debug\EntityFramework.dll
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\bin\Debug\DAL.dll
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\bin\Debug\BAL.pdb
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\bin\Debug\BEL.pdb
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\bin\Debug\EntityFramework.xml
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\bin\Debug\DAL.pdb
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.csprojResolveAssemblyReference.cache
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Form1.resources
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Login.resources
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.MDIAdmin.resources
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.MDIEmployee.resources
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.Properties.Resources.resources
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.ViewEmployees.resources
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\ThreeTierStructure\obj\x86\Debug\ThreeTierStructure.csproj.GenerateResource.Cache

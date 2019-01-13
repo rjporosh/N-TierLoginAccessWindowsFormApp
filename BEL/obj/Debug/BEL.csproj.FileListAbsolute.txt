@@ -1,0 +1,17 @@
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BEL\bin\Debug\BEL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BEL\bin\Debug\BEL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BEL\obj\Debug\BEL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\BEL\obj\Debug\BEL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\BEL\bin\Debug\BEL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\BEL\bin\Debug\BEL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\BEL\obj\Debug\BEL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\02\Three Tier Part 02\ThreeTierStructure\BEL\obj\Debug\BEL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\BEL\bin\Debug\BEL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\BEL\bin\Debug\BEL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\BEL\obj\Debug\BEL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\BEL\obj\Debug\BEL.pdb
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\BEL\bin\Debug\BEL.dll
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\BEL\bin\Debug\BEL.pdb
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\BEL\obj\Debug\BEL.dll
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\BEL\obj\Debug\BEL.pdb
+C:\Users\Porosh Prince\Documents\Visual Studio 2015\Projects\3 Tier Part 05\ThreeTierStructure\BEL\obj\Debug\BEL.csprojResolveAssemblyReference.cache
